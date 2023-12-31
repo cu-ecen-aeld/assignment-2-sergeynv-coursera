@@ -11,8 +11,11 @@ ssh -T git@github.com
 
 ### Course 1
 
-#### Host Setup
+#### Setup
 - [GCloud](https://github.com/cu-ecen-aeld/aesd-assignments/wiki/Installing-a-Google-Cloud-Platform-(GCP)-based-actions-runner-or-build-system)
+- [ARM GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)
+  - Download `AArch64 GNU/Linux target (aarch64-none-linux-gnu)`
+    - Note: not available for Mac!
 
 #### Week 1
 - [Assignment 1 Instructions](https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot/supplement/bnixD/assignment-1-instructions)
